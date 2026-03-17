@@ -12,6 +12,10 @@ One crucial finding of this research is the **maintenance gap**. While MinIO is 
 * **Longevity & Vitality**: Before moving production data, check the "Key Committers" (Bus Factor) and the latest activity. A project started in 2011 shows maturity, but it needs regular updates to stay secure and compatible with modern S3 API standards.
 * **Release Stage:** Check if the project has a stable v1.0.0 or "GA" (General Availability) release. Projects like RustFS are currently in Alpha, meaning the API or data format might still change, and they are not yet recommended for mission-critical production workloads.
 
+## Star History
+
+![Star History 2026](/docs/star-history-2026317.png)
+
 ## S3 Server (Storage Engines)
 
 This table tracks the most promising successors and alternatives to MinIO, focusing on licensing, community health, and ease of use.
