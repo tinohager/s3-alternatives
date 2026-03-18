@@ -57,3 +57,5 @@ If you want to dive deeper into why some of these alternatives were chosen or ho
   - _Focus:_ A very technical "Brain Dump" that compares various S3-compatible engines and discusses the trade-offs between performance and complexity.
 - **[Amazon S3 Alternatives: Managed Cloud Options](https://www.digitalocean.com/resources/articles/amazon-s3-alternatives)** by DigitalOcean
   - _Focus:_ A high-level overview of managed S3-compatible services (SaaS) for those who don't want to host the infrastructure themselves.
+- **[RustFS: Drop-in Replacement for MinIO](https://github.com/rustfs/rustfs/issues/2212)** by loverustfs  
+  - _Focus:_ S3-compatible, high-performance Rust-based object storage designed for in-place migration from existing MinIO instances without data transfer.
