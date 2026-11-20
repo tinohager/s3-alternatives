@@ -1,6 +1,6 @@
 # S3-Alternatives
 
-![Banner](docs/banner.png)
+![Banner](docs/banner2026.png)
 
 > **Last updated:** November 2026. Stars, prices and versions change quickly. Corrections and PRs are welcome.
 
