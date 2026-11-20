@@ -52,7 +52,7 @@ One crucial finding of this research is the **maintenance gap**. While MinIO was
 
 ## Star History
 
-![Star History 2026](docs/star-history-2026317.png)
+![Star History 2026](docs/star-history-20261120.png)
 
 ## S3 Server (Storage Engines)
 
